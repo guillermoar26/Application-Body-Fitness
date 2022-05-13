@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="BaseDeDatosFirebase2"/>
+	<classpathentry kind="src" path="ImagenesGenerales"/>
+	<classpathentry kind="src" path="ImagenesEjercicios"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/api-common-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/firebase-admin-8.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/firebase-admin-8.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/firebase-admin-8.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/google_http_client_jackson2-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/google-api-client-1.23.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/google-api-client-repackaged-com-google-common-base-1.2.3-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/google-auth-library-credentials-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/google-auth-library-oauth2-http-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/google-http-client-1.41.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/google-http-client-gson-1.41.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/gson-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/jackson-core-2.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/OneDrive - Universidad Antonio De Nebrija/2 Año de Informatica/Segundo Cuatri/Ingenieria de software/Ingenieria de software trabajo final/Librerias Java Aplicacion/slf4j-jdk14-1.7.24.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
